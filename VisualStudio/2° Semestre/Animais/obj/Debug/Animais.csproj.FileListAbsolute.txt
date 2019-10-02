@@ -1,0 +1,7 @@
+Z:\Visual Studio\2° Semestre\Animais\bin\Debug\Animais.exe.config
+Z:\Visual Studio\2° Semestre\Animais\bin\Debug\Animais.exe
+Z:\Visual Studio\2° Semestre\Animais\bin\Debug\Animais.pdb
+Z:\Visual Studio\2° Semestre\Animais\obj\Debug\Animais.csprojAssemblyReference.cache
+Z:\Visual Studio\2° Semestre\Animais\obj\Debug\Animais.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\2° Semestre\Animais\obj\Debug\Animais.exe
+Z:\Visual Studio\2° Semestre\Animais\obj\Debug\Animais.pdb

@@ -1,0 +1,7 @@
+Z:\Visual Studio\2° Semestre\Aluno\bin\Debug\Aluno.exe.config
+Z:\Visual Studio\2° Semestre\Aluno\bin\Debug\Aluno.exe
+Z:\Visual Studio\2° Semestre\Aluno\bin\Debug\Aluno.pdb
+Z:\Visual Studio\2° Semestre\Aluno\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\2° Semestre\Aluno\obj\Debug\Aluno.exe
+Z:\Visual Studio\2° Semestre\Aluno\obj\Debug\Aluno.pdb
+Z:\Visual Studio\2° Semestre\Aluno\obj\Debug\Escola.csprojAssemblyReference.cache

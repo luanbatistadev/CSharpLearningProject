@@ -1,0 +1,7 @@
+Z:\Visual Studio\2° Semestre\Banco Nacional\bin\Debug\Banco Nacional.exe.config
+Z:\Visual Studio\2° Semestre\Banco Nacional\bin\Debug\Banco Nacional.exe
+Z:\Visual Studio\2° Semestre\Banco Nacional\bin\Debug\Banco Nacional.pdb
+Z:\Visual Studio\2° Semestre\Banco Nacional\obj\Debug\Banco Nacional.csprojAssemblyReference.cache
+Z:\Visual Studio\2° Semestre\Banco Nacional\obj\Debug\Banco Nacional.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\2° Semestre\Banco Nacional\obj\Debug\Banco Nacional.exe
+Z:\Visual Studio\2° Semestre\Banco Nacional\obj\Debug\Banco Nacional.pdb

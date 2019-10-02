@@ -1,0 +1,7 @@
+C:\Users\06477929236\source\repos\2° Semestre\ORIENTADO A OBJETO\bin\Debug\ORIENTADO A OBJETO.exe.config
+C:\Users\06477929236\source\repos\2° Semestre\ORIENTADO A OBJETO\bin\Debug\ORIENTADO A OBJETO.exe
+C:\Users\06477929236\source\repos\2° Semestre\ORIENTADO A OBJETO\bin\Debug\ORIENTADO A OBJETO.pdb
+C:\Users\06477929236\source\repos\2° Semestre\ORIENTADO A OBJETO\obj\Debug\ORIENTADO A OBJETO.csprojAssemblyReference.cache
+C:\Users\06477929236\source\repos\2° Semestre\ORIENTADO A OBJETO\obj\Debug\ORIENTADO A OBJETO.csproj.CoreCompileInputs.cache
+C:\Users\06477929236\source\repos\2° Semestre\ORIENTADO A OBJETO\obj\Debug\ORIENTADO A OBJETO.exe
+C:\Users\06477929236\source\repos\2° Semestre\ORIENTADO A OBJETO\obj\Debug\ORIENTADO A OBJETO.pdb

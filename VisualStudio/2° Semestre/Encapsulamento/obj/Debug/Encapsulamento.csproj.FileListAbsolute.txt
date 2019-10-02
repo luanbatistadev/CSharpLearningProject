@@ -1,0 +1,7 @@
+Z:\Visual Studio\2° Semestre\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+Z:\Visual Studio\2° Semestre\Encapsulamento\bin\Debug\Encapsulamento.exe
+Z:\Visual Studio\2° Semestre\Encapsulamento\bin\Debug\Encapsulamento.pdb
+Z:\Visual Studio\2° Semestre\Encapsulamento\obj\Debug\Encapsulamento.csprojAssemblyReference.cache
+Z:\Visual Studio\2° Semestre\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\2° Semestre\Encapsulamento\obj\Debug\Encapsulamento.exe
+Z:\Visual Studio\2° Semestre\Encapsulamento\obj\Debug\Encapsulamento.pdb

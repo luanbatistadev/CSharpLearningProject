@@ -1,0 +1,7 @@
+Z:\Visual Studio\2° Semestre\Roblox Corporation\bin\Debug\Roblox Corporation.exe.config
+Z:\Visual Studio\2° Semestre\Roblox Corporation\bin\Debug\Roblox Corporation.exe
+Z:\Visual Studio\2° Semestre\Roblox Corporation\bin\Debug\Roblox Corporation.pdb
+Z:\Visual Studio\2° Semestre\Roblox Corporation\obj\Debug\Roblox Corporation.csprojAssemblyReference.cache
+Z:\Visual Studio\2° Semestre\Roblox Corporation\obj\Debug\Roblox Corporation.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\2° Semestre\Roblox Corporation\obj\Debug\Roblox Corporation.exe
+Z:\Visual Studio\2° Semestre\Roblox Corporation\obj\Debug\Roblox Corporation.pdb

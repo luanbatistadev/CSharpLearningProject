@@ -1,0 +1,7 @@
+Z:\Visual Studio\2° Semestre\ORIENTADO A OBJETO\bin\Debug\ORIENTADO A OBJETO.exe.config
+Z:\Visual Studio\2° Semestre\ORIENTADO A OBJETO\bin\Debug\ORIENTADO A OBJETO.exe
+Z:\Visual Studio\2° Semestre\ORIENTADO A OBJETO\bin\Debug\ORIENTADO A OBJETO.pdb
+Z:\Visual Studio\2° Semestre\ORIENTADO A OBJETO\obj\Debug\Banco.csprojAssemblyReference.cache
+Z:\Visual Studio\2° Semestre\ORIENTADO A OBJETO\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\2° Semestre\ORIENTADO A OBJETO\obj\Debug\ORIENTADO A OBJETO.exe
+Z:\Visual Studio\2° Semestre\ORIENTADO A OBJETO\obj\Debug\ORIENTADO A OBJETO.pdb

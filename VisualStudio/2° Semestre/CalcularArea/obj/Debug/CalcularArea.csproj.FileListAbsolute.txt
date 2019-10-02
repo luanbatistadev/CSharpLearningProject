@@ -1,0 +1,7 @@
+Z:\Visual Studio\2° Semestre\CalcularArea\bin\Debug\CalcularArea.exe.config
+Z:\Visual Studio\2° Semestre\CalcularArea\bin\Debug\CalcularArea.exe
+Z:\Visual Studio\2° Semestre\CalcularArea\bin\Debug\CalcularArea.pdb
+Z:\Visual Studio\2° Semestre\CalcularArea\obj\Debug\CalcularArea.csprojAssemblyReference.cache
+Z:\Visual Studio\2° Semestre\CalcularArea\obj\Debug\CalcularArea.csproj.CoreCompileInputs.cache
+Z:\Visual Studio\2° Semestre\CalcularArea\obj\Debug\CalcularArea.exe
+Z:\Visual Studio\2° Semestre\CalcularArea\obj\Debug\CalcularArea.pdb
